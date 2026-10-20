@@ -5,8 +5,7 @@ Pastes can optionally expire after a time limit, a view limit, or both.
 
 Built with Next.js (App Router), TypeScript, Tailwind CSS and Neon Postgres. Deployed on Vercel.
 
-Live: https://YOUR-APP.vercel.app
-
+Live: https://pastebin-lite-psi.vercel.app/
 ## Run locally
 
 ```bash
